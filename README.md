@@ -6,8 +6,9 @@
 
 ## 기여자
 
-1. Codeing999 [> click](https://github.com/codeing999)
+1. codeing999 [> click](https://github.com/codeing999)
 2. unchaptered [> click](https://github.com/unchaptered)
+3. axisotherwise [> click](https://github.com/axisotherwise)
 
 <hr>
 
@@ -17,6 +18,7 @@
 
 - submain/codeing999
 - submain/unchaptered
+- submain/axisotherwise
 
 <hr>
 
