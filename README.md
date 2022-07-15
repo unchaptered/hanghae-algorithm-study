@@ -17,3 +17,15 @@
 
 - submain/codeing999
 - submain/unchaptered
+
+<hr>
+
+## 알고리즘 풀이 TIL!
+
+각자가 풀이한 문제를 `docs` 폴더 안에 넣어주세요!
+
+```cmd
+001.재밌는 수학 문제 풀이.js
+002.재밌는 수학 문제 풀이.js
+003.재밌는 수학 문제 풀이.js
+```
