@@ -9,3 +9,7 @@ github : https://github.com/unchaptered
 
 1. `2022-07-15` | 1.js ~ 6.js
 2. `2022-07-16` | 7.js ~ 12.js
+
+챌린지 문제 풀이
+
+1. `2022-07-17` | 25.js ~ 30.js
