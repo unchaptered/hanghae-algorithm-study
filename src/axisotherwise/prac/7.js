@@ -4,7 +4,7 @@ function solution(n) {
   result.map(e => {
     answer.push(parseInt(e));
   });
-  return answer;
+  return answer.reverse();
 }
 
 console.log(solution(12345));
