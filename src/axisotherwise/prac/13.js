@@ -1,7 +1,6 @@
 // 3진법 뒤집기
 function solution(int) {
-  let answer = [];
-  for (let i = 0; i < int.length)
+  return parseInt(int.toString(3).split("").reverse().join(""), 3);
 }
 
-console.log(solution(45));
+console.log(solution(125));

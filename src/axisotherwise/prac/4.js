@@ -14,4 +14,5 @@ function solution(total, choice) {
 
 let total = ["marina", "josipa", "nikola", "vinko", "filipa"]
 let choice = ["josipa", "filipa", "marina", "nikola"]
+
 console.log(solution(total, choice));
