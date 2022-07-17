@@ -1,4 +1,13 @@
-function solution(participant, completion) {    //답은 맞는데 수행시간이 길어서 통과 못한 코드임 현재
+function solution(participant, completion) {
+    let part2 = participant.sort()
+    let comp2 = completion.sort()
+    for (let i = 0; i< part2.length; i++){
+        if (part2[i] != comp2[i]) return part2[i];
+    }
+}
+
+/*//답은 맞는데 수행시간이 길어서 통과 못한 코드
+function solution(participant, completion) {    
     var participant2 = participant
     var completion2 = completion
     for (var i = 0; i< participant2.length; i++){
@@ -16,17 +25,5 @@ function solution(participant, completion) {    //답은 맞는데 수행시간�
         if (participant2[i] != null)
             return participant2[i]
     }
-    /* 이게 왜 안되냐
-    for (var part in participant){
-        for (var comp in completion){
-            if (part == comp){
-                a = 1;
-            }   
-        }
-        if (a == 0)
-            {
-                return part;
-            }
-        a = 0;
-    }*/
 }
+*/
