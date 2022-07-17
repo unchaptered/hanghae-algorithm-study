@@ -3,7 +3,7 @@ function solution(s) {
     for (var i = 0; i <arr.length; i++)
         for (var j = 0; j <arr[i].length; j++)
             if (j % 2 == 0){
-                //arr[i][j] = arr[i][j].toUpperCase(); 이거 배열엔 안먹힌다나 암튼안됨.
+                //arr[i][j] = arr[i][j].toUpperCase(); 이거 배열엔 안먹힌다나 근데 문자 하난데.. 암튼안됨.
                 arr[i][j] = arr[i][j] -32;  //왜 아무변화가 없지
                 console.log(arr[i][j]);
             }
