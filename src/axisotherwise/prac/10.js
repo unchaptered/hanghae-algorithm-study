@@ -5,4 +5,4 @@ function solution(...arr) {
   return answer;
 }
 
-console.log(solution(4, 3, 2, 1));
+console.log(solution(1));
