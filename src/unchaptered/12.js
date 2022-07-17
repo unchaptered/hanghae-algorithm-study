@@ -17,14 +17,17 @@ function solution(n) {
     const result = is_multiple(n, acc);
     
     return result;
+
 }
 
 const num_gen = function* (n) {
     
     for (const a of [...n.toString()])
         yield +a;
+        
 }
 const calc_acc = (acc, iter) => {
+
     if (!iter) {
         iter = acc;
         acc = 0;
@@ -33,5 +36,6 @@ const calc_acc = (acc, iter) => {
     for (const a of iter) acc += a;
     
     return acc;
+
 }
 const is_multiple = (tar, dev) => tar % dev === 0;
