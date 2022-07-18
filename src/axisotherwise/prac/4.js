@@ -9,9 +9,10 @@ function solution(total, choice) {
       break;
     }
   }
-  return answer;
+  return answer.join("");
 }
 
 let total = ["marina", "josipa", "nikola", "vinko", "filipa"]
 let choice = ["josipa", "filipa", "marina", "nikola"]
+
 console.log(solution(total, choice));
