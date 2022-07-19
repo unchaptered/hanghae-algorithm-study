@@ -13,7 +13,7 @@ function solution(words, n) {
     //     else if (bef > aft) return -1;
     //     else return 1;
     // });
-     words.sort((aft, bef) => {
+    words.sort((aft, bef) => {
         if (bef[n] < aft[n]) return 1;
         else if (bef[n] > aft[n]) return -1;
         else {
