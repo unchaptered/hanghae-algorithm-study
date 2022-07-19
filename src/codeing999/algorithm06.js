@@ -9,4 +9,5 @@ function solution(n)
     let answer = sum;
 
     return answer;
+    
 }

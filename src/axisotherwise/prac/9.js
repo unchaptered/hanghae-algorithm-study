@@ -7,5 +7,6 @@ function solution(n) {
   return result;
 }
 
+console.log(solution(3));
 console.log(solution(4));
 

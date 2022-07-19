@@ -15,7 +15,6 @@ function solution(arr, divisor) {
     if (answer.length == 0)
         return [-1];    //이게 되네
     return answer;
-}
 
 /*
 @ 3~10번줄 수정버전
@@ -28,5 +27,3 @@ temp = arr.filter(x => x % divisor == 0)
 
 @ sort()함수 쓴 부분도 화살표 함수 써서하면
 sort((a, b) => a-b)
-
-*/

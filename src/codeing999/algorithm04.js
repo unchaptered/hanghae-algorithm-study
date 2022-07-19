@@ -26,4 +26,3 @@ function solution(participant, completion) {
             return participant2[i]
     }
 }
-*/
