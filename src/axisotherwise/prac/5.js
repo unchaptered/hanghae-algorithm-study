@@ -10,7 +10,7 @@ function solution(str) {
       }
     })
   });
-  return answer.join("");
+  return answer;
 }
 
 console.log(solution("try hello world"));
