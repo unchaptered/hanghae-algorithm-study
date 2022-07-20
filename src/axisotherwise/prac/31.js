@@ -1,11 +1,6 @@
-function solution(...arr) {
-  let answer = [];
-  arr.forEach((e, i) => {
-    if (e !== arr[i + 1]) {
-      answer.push(e);
-    }
-  });
-  return answer;
+// 소수 찾기
+function solution(n) {
+
 }
 
-console.log(solution(4, 4, 4, 3, 3));
+console.log(solution(10));
