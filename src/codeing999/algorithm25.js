@@ -20,8 +20,6 @@ function solution(left, right) { //약수갯수가 홀수이려면 1이거나 �
             else
                 sum+=i;
         }
-                
-        
     }
     var answer = sum;
     return answer;
