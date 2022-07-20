@@ -6,9 +6,9 @@
 
 ## 기여자
 
-1. codeing999 [> click](https://github.com/codeing999)
-2. unchaptered [> click](https://github.com/unchaptered)
-3. axisotherwise [> click](https://github.com/axisotherwise)
+1. codeing999 [GitHub](https://github.com/codeing999) / [Velog](https://velog.io/@mero)
+2. unchaptered [GitHub](https://github.com/unchaptered) / [Velog](https://velog.io/@unchapterd)
+3. axisotherwise [GitHub](https://github.com/axisotherwise) / [T-story](https://thelapssql.tistory.com/)
 
 <hr>
 
