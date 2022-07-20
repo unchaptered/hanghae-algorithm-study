@@ -6,8 +6,9 @@
 
 ## 기여자
 
-1. Codeing999 [> click](https://github.com/codeing999)
-2. unchaptered [> click](https://github.com/unchaptered)
+1. codeing999 [GitHub](https://github.com/codeing999) / [Velog](https://velog.io/@mero)
+2. unchaptered [GitHub](https://github.com/unchaptered) / [Velog](https://velog.io/@unchapterd)
+3. axisotherwise [GitHub](https://github.com/axisotherwise) / [T-story](https://thelapssql.tistory.com/)
 
 <hr>
 
@@ -17,15 +18,16 @@
 
 - submain/codeing999
 - submain/unchaptered
+- submain/axisotherwise
 
 <hr>
 
-## 알고리즘 풀이 TIL!
+## 알고리즘 문제 풀이
 
-각자가 풀이한 문제를 `docs` 폴더 안에 넣어주세요!
+`src/src.md` 에 있는 문제 리스트를 풀이해보세요.
 
-```cmd
-001.재밌는 수학 문제 풀이.js
-002.재밌는 수학 문제 풀이.js
-003.재밌는 수학 문제 풀이.js
-```
+<hr>
+
+## JavaScript 기초주차 문제
+
+`docs/docs.list.md` 에 있는 기초 주차 문제를 확인하세요.
