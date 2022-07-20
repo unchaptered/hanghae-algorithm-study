@@ -1,2 +1,3 @@
-let n = 125;
-console.log(n.toString(3));
+let result = "z";
+
+console.log(String.fromCharCode(90));

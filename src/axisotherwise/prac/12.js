@@ -1,3 +1,4 @@
+// 자리수
 function solution(n) {
   let arr = n.toString().split("");
   let one = parseInt(arr[0]);
