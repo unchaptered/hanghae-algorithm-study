@@ -3,15 +3,16 @@ function solution(total, choice) {
   let answer = [];
   total.sort();
   choice.sort();
+
   for (let i = 0; i < total.length; i++) {
     if (total[i] !== choice[i]) {
-      answer.push(total[i]);
-      break;
+      return total[i];
     }
   }
-  return answer;
+  console.log(total[total.length - 1]);
 }
 
-let total = ["marina", "josipa", "nikola", "vinko", "filipa"]
-let choice = ["josipa", "filipa", "marina", "nikola"]
+let total = ["mislav", "stanko", "mislav", "ana"];
+let choice = ["stanko", "ana", "mislav"];
+
 console.log(solution(total, choice));
