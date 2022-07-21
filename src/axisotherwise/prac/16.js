@@ -4,11 +4,13 @@
 // Array.from(): Set 객체 ㅡ> Array
 function solution(arr) {
   let answer = [];
-  for (let i = 0; i < arr.length; i++) {
+  
+  for(let i = 0; i < arr.length; i++) {
     for (let j = i + 1; j < arr.length; j++) {
       answer.push(arr[i] + arr[j]);
     }
   }
+
   return answer.filter((e, i) => answer.indexOf(e) === i).sort((a, b) => a - b);
 }
 
