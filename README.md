@@ -24,10 +24,10 @@
 
 ## 알고리즘 문제 풀이
 
-`src/src.md` 에 있는 문제 리스트를 풀이해보세요.
+[src/src.md](https://github.com/unchaptered/algorithm/blob/main/src/README.md) 에 있는 문제 리스트를 풀이해보세요.
 
 <hr>
 
 ## JavaScript 기초주차 문제
 
-`docs/docs.list.md` 에 있는 기초 주차 문제를 확인하세요.
+[docs/README.md](https://github.com/unchaptered/algorithm/blob/main/docs/README.md) 에 있는 기초 주차 문제를 확인하세요.
