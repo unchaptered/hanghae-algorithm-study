@@ -1,3 +1,5 @@
-let result = "z";
+let test = 97;
 
-console.log(String.fromCharCode(90));
+if (96 < test < 98) {
+    console.log("here");
+}
