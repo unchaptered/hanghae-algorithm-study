@@ -31,3 +31,14 @@
 ## JavaScript 기초주차 문제
 
 [docs/README.md](https://github.com/unchaptered/algorithm/blob/main/docs/README.md) 에 있는 기초 주차 문제를 확인하세요.
+
+<hr>
+
+## 알고리즘 문제 풀이 (연장)
+
+| 주차 | 주제 |
+| :--- | :--- |
+| 1 주차 | 블루투포스 <br> 투포인터 알고리즘, 슬라이딩 윈도우, 해쉬 |
+| 2 주차 | 스텍, 큐 <br> 이분검색 |
+| 3 주차 | DFS : 깊이 우선 탐색 <br> DFS, BFS: 넓이 우선 탐색 |
+| 4 주차 | Dynamic Programming: 동적 프로그래밍 |
