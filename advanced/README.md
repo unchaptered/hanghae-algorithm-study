@@ -25,6 +25,8 @@
 | :--- | :------- | :---- | :--- |
 | 1주차 | 리모콘 (브루트 포스) | 이재철 | https://www.acmicpc.net/problem/1107 |
 | 1주차 | 회전초밥 (두 포인터, 슬라이딩 윈도우) | 이재철 | https://www.acmicpc.net/problem/15961 |
+| 1주차 | 배열 돌리기 (브루트 포스) | @unchaptered | https://www.acmicpc.net/problem/17406 |
+| 1주차 | DNS 비밀번호 (슬라이딩 윈도우) | @unchaptered | https://www.acmicpc.net/problem/12891 |
 
 
 <!-- 여기에 문제 적어주세요! -->
