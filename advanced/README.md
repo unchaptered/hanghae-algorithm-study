@@ -14,8 +14,8 @@
 
 | 주차 | 주제 |
 | :--- | :--- |
-| 1 주차 `22-07-24 09:00(am)` | 블루투포스 <br> 투포인터 알고리즘, 슬라이딩 윈도우, 해쉬 |
-| 2 주차 `22-07-31 09:00(am)` | 스텍, 큐 <br> 이분검색 |
+| 1 주차 `22-07-24 09:00(am)` | 블루트 포스 <br> 투포인터 알고리즘, 슬라이딩 윈도우, 해쉬 |
+| 2 주차 `22-07-31 09:00(am)` | 스텍, 큐 <br> 이분 탐색 |
 | 3 주차 `22-08-07 09:00(am)` | DFS : 깊이 우선 탐색 <br> DFS, BFS: 넓이 우선 탐색 |
 | 4 주차 `22-08-14 09:00(am)` | Dynamic Programming: 동적 프로그래밍 |
 
@@ -27,5 +27,10 @@
 | 1주차 | [회전초밥 (투 포인터, 슬라이딩 윈도우)](https://www.acmicpc.net/problem/15961) | @codeing999 | - || |
 | 1주차 | [배열 돌리기 (브루트 포스)](https://www.acmicpc.net/problem/17406) | @unchaptered | - | |
 | 1주차 | [DNS 비밀번호 (슬라이딩 윈도우)](https://www.acmicpc.net/problem/12891) | @unchaptered | `2022-07-24` | |
+| 1주차 | [ (브루트 포스)]() | @axisotherwise |@axisotherwise | `` | |
+| 1주차 | [ (해쉬)]() | @axisotherwise |@axisotherwise | `` | |
+| 2주차 | [기능 개발(스텍, 큐)](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | @axisotherwise | - |
+| 2주차 | [올바른 괄호 (스텍, 큐)](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | @codeing999 | - |
+| 2주차 | [입국심사 (이분 탐색)](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | @unchaptered | - |
 
 <!-- 여기에 문제 적어주세요! -->
