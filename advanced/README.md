@@ -21,11 +21,11 @@
 
 ### 문제 리스트
 
-| 주차 | 문제 제목 | 담당 | 링크 | 풀이 날자 | 풀이 링크 |
-| :--- | :------- | :---- | :--- | :------ | :------- |
-| 1주차 | 리모콘 (브루트 포스) | @codeing999 | https://www.acmicpc.net/problem/1107 | `2022-07-24` | |
-| 1주차 | 회전초밥 (투 포인터, 슬라이딩 윈도우) | @codeing999 | https://www.acmicpc.net/problem/15961 | - | |
-| 1주차 | 배열 돌리기 (브루트 포스) | @unchaptered | https://www.acmicpc.net/problem/17406 | - | |
-| 1주차 | DNS 비밀번호 (슬라이딩 윈도우) | @unchaptered | https://www.acmicpc.net/problem/12891 | `2022-07-24` | |
+| 주차 | 문제 제목 | 담당 | 풀이 날자 | 풀이 링크 |
+| :--- | :------- | :---- | :------ | :------- |
+| 1주차 | [리모콘 (브루트 포스)](https://www.acmicpc.net/problem/1107) | @codeing999 |  `2022-07-24` | |
+| 1주차 | [회전초밥 (투 포인터, 슬라이딩 윈도우)](https://www.acmicpc.net/problem/15961) | @codeing999 | - || |
+| 1주차 | [배열 돌리기 (브루트 포스)](https://www.acmicpc.net/problem/17406) | @unchaptered | - | |
+| 1주차 | [DNS 비밀번호 (슬라이딩 윈도우)](https://www.acmicpc.net/problem/12891) | @unchaptered | `2022-07-24` | |
 
 <!-- 여기에 문제 적어주세요! -->
