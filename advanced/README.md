@@ -33,5 +33,6 @@
 | 2주차 | [올바른 괄호 (스텍, 큐)](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | @codeing999 | - |
 | 2주차 | [입국심사 (이분 탐색)](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | @unchaptered | - |
 | 3주차 | [단어 변환 (DFS, BFS)](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | @unchaptered | - |
+| 3주차 | [네트워크 (DFS, BFS)](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | @codeing999 | - |
 
 <!-- 여기에 문제 적어주세요! -->
