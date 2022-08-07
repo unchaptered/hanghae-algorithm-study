@@ -34,6 +34,7 @@
 | 2주차 | [입국심사 (이분 탐색)](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | @unchaptered | `2022-08-07` | [해설](https://github.com/unchaptered/algorithm/blob/main/advanced/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.md) |
 | 3주차 | [단어 변환 (DFS, BFS)](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | @unchaptered | `2022-08-07` | [해설](https://github.com/unchaptered/algorithm/blob/main/advanced/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.md)|
 | 3주차 | [네트워크 (DFS, BFS)](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | @codeing999 | `2022-08-07` | [해설](https://github.com/unchaptered/algorithm/blob/main/advanced/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md) |
+| 4주차 | [큰 수 만들기(Greedy)](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | @unchaptered | `2022-08-07` | - |
 
 ### 사진 📸
 
