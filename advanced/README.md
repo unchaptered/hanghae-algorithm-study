@@ -30,9 +30,9 @@
 | 1주차 | [ (브루트 포스)]() | @axisotherwise | `2022-07-24` | `` | |
 | 1주차 | [ (해쉬)]() | @axisotherwise | `2022-07-24` | |
 | 2주차 | [기능 개발(스텍, 큐)](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | @axisotherwise | - |
-| 2주차 | [올바른 괄호 (스텍, 큐)](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | @codeing999 | - |
+| 2주차 | [올바른 괄호 (스텍, 큐)](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | @codeing999 | `2022-08-07` |
 | 2주차 | [입국심사 (이분 탐색)](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | @unchaptered | `2022-08-07` | [해설](https://github.com/unchaptered/algorithm/blob/main/advanced/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.md) |
-| 3주차 | [단어 변환 (DFS, BFS)](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | @unchaptered | - |
-| 3주차 | [네트워크 (DFS, BFS)](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | @codeing999 | - |
+| 3주차 | [단어 변환 (DFS, BFS)](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | @unchaptered | `2022-08-07` | [해설](https://github.com/unchaptered/algorithm/blob/main/advanced/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.md)|
+| 3주차 | [네트워크 (DFS, BFS)](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | @codeing999 | `2022-08-07` | - |
 
 <!-- 여기에 문제 적어주세요! -->
