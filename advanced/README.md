@@ -38,5 +38,5 @@
 ### 사진 📸
 
 - `2022-08-07` @unchaptered @codeing999
-- 
+
 ![](https://github.com/unchaptered/algorithm/blob/main/advanced/2022-08-07.png)
