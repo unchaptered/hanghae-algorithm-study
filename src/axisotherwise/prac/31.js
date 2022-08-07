@@ -1,11 +1,17 @@
-function solution(...arr) {
-  let answer = [];
-  arr.forEach((e, i) => {
-    if (e !== arr[i + 1]) {
-      answer.push(e);
-    }
-  });
+// 소수 찾기
+function solution(n) {
+  let answer = 0;
+  for (let i = 2; i <= n; i++) {
+    if (prime(i)) answer++;
+  }
   return answer;
 }
 
-console.log(solution(4, 4, 4, 3, 3));
+function prime(int) {
+  for (let i = 2; i <= Math.sqrt(int); i++) {
+    if (int % i === 0) return false;
+  }
+  return true;
+}
+
+console.log(solution(10));

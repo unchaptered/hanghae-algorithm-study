@@ -1,3 +1,4 @@
-let result = "z";
+let arr = [];
+arr.push({ name: "윤승근", age: 29 });
 
-console.log(String.fromCharCode(90));
+console.log(arr);

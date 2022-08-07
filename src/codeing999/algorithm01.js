@@ -6,7 +6,6 @@ function solution(a, b) {
         days += daysofmonth[i];
     }
     
-    
     var answer = dayoftheweek[days%7];
     return answer;
 }

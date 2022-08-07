@@ -1,14 +1,12 @@
-function solution(str) {
-  let lower = [];
-  let upper = [];
-  str.split("").filter(e => {
-    if (e.toLowerCase() === e) {
-      lower.push(e);
-    } else {
-      upper.push(e);
-    }
-  });
-  return lower.sort().reverse().concat(upper).join("");
+// 키패드 누르기
+// 1 4 7 Left
+// 3 6 9 Right
+// 상 하 좌 우
+function solution(arr, hand) {
+
 }
 
-console.log(solution("Zbcdefg"));
+let arr = [1, 3, 4, 5, 8, 2, 1, 4, 5, 9, 5];
+let hand = "right";
+
+console.log(solution(arr, hand));
