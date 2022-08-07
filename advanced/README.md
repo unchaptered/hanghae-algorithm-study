@@ -35,4 +35,7 @@
 | 3주차 | [단어 변환 (DFS, BFS)](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | @unchaptered | `2022-08-07` | [해설](https://github.com/unchaptered/algorithm/blob/main/advanced/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.md)|
 | 3주차 | [네트워크 (DFS, BFS)](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | @codeing999 | `2022-08-07` | - |
 
-<!-- 여기에 문제 적어주세요! -->
+### 사진 📸
+
+- `2022-08-07` @unchaptered @codeing999
+![](https://github.com/unchaptered/algorithm/blob/main/advanced/2022-08-07.png)
