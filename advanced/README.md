@@ -41,4 +41,7 @@
 
 - `2022-08-07` @unchaptered @codeing999
 
-![](https://github.com/unchaptered/algorithm/blob/main/advanced/2022-08-07.png)
+![](./2022-08-07.png)
+
+- `2022-08-14` @unchaptered @codeing999
+![](./2022-08-14.png)
