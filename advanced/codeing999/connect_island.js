@@ -1,12 +1,29 @@
 //https://school.programmers.co.kr/learn/courses/30/lessons/42861#
 
+function solution(n, costs) {
+    
+    let sorted = costs.sort( (a, b) => a[2] - b[2]);
+    console.log(sorted);
+    let visited = [];
+    let count = 0;
+    var answer = 0;
+    for (i = 0; i < sorted.length; i++){
+        if (!(visited.includes(sorted[i][0]) && visited.includes(sorted[i][1])) ){
+            visited.push(sorted[i][0]);
+            visited.push(sorted[i][1]);
+            console.log(visited);
+            answer+=sorted[i][2];
+            count++;
+            if (count === n-1) break;
+        }
+    }
+    
+    
+    return answer;
+}
 
 
-
-/*이건 실패한 방법. 각노드별로 자기랑 연결된 가장 비용 낮은 노드를 찾으면
-노드갯수가 n개일 때 n개의 연결이 찾아지고 거기서 1개만 빼서 n-1개의 노드를 만들어서
-다 더하면 정답이 된다는 발상이었는데. 테스트는 2개밖에 통과를 못함. 원인도 알겠고. 
-이렇게도 계속 더 해보면 됐을진 모르겠지만, 일단 다른 더 좋고 간단한 방법이 떠올라서 보류시킴.
+/*이게 첫번째 시도한 방법
 */
 //costs는 x * 3 배열
 // function solution(n, costs) {
