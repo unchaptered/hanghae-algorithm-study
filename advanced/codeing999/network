@@ -1,0 +1,39 @@
+//https://school.programmers.co.kr/learn/courses/30/lessons/43162#
+var count = 0;
+var doneroot = [];
+var donenode = [];
+
+//i 현재 노드
+//root 현재 탐색이 시작된 노드
+function DFS(i, n, computers, root) {
+    if (i === root ) doneroot.push(root);
+    if (donenode.includes(i) === false )donenode.push(i);
+    
+    for (let j = 1; j< n; j++){
+        //console.log("A:", i, j, root, donenode, doneroot);
+        if ((donenode.includes(j) === false ) && (computers[i][j] === 1) )
+            DFS(j, n, computers, root);
+    }
+    
+    if ( i === root){
+        for (let j = i+1; j< n; j++){
+        //console.log("B:", j,  root, doneroot, donenode);
+        if (donenode.includes(j) === false ) {
+            
+            DFS(j, n, computers, j);
+        }
+    }
+    }
+    
+    return doneroot.length;
+    
+}
+
+function solution(n, computers) {
+    
+    return DFS(0, n, computers, 0);
+  
+}
+
+
+
