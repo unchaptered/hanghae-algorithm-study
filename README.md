@@ -1,12 +1,7 @@
 # algorithm
 
 제목 : 알고리즘 스터디
-`2022-07-`
-
-![](https://github.com/unchaptered/hanghae-algorithm-study/blob/main/%EC%99%84%EB%A3%8C!.png)
-
-![](https://github.com/unchaptered/hanghae-algorithm-study/blob/main/20220822042450.png)
-![](https://github.com/unchaptered/hanghae-algorithm-study/blob/main/20220822-Fin.png)
+안내 : 다들 `submain/작업자명` 에 `코드 작성` ~ `코드 푸쉬` 해주세요.
 
 <hr>
 
@@ -16,31 +11,18 @@
 2. unchaptered [GitHub](https://github.com/unchaptered) / [Velog](https://velog.io/@unchapterd)
 3. axisotherwise [GitHub](https://github.com/axisotherwise) / [T-story](https://thelapssql.tistory.com/)
 
-<hr>
+## 폴더
 
-## Git 사용 전략
-
-작업자 별로 할당된 다음의 브랜치에서 `코드 작성` ~ `코드 푸쉬` 해주세요.
-
-- submain/codeing999
-- submain/unchaptered
-- submain/axisotherwise
-
-<hr>
-
-## 알고리즘 문제 풀이
-
-[src/src.md](https://github.com/unchaptered/algorithm/blob/main/src/README.md) 에 있는 문제 리스트를 풀이해보세요.
-
-<hr>
-
-## JavaScript 기초주차 문제
-
-[docs/README.md](https://github.com/unchaptered/algorithm/blob/main/docs/README.md) 에 있는 기초 주차 문제를 확인하세요.
+- 문제 리스트 [src/src.md](https://github.com/unchaptered/algorithm/blob/main/src/README.md) 에 있는 문제 리스트를 풀이해보세요.
+- 문서 리스트 [docs/README.md](https://github.com/unchaptered/algorithm/blob/main/docs/README.md) 에 있는 기초 주차 문제를 확인하세요.
 
 <hr>
 
 ## 알고리즘 문제 풀이 (연장)
+
+<p align="center"><img src="https://github.com/unchaptered/hanghae-algorithm-study/blob/main/Group%201%20(1).png" /></p>
+
+<p align="center"><img src="https://github.com/unchaptered/hanghae-algorithm-study/blob/main/%EC%99%84%EB%A3%8C!.png" /></p>
 
 `2022-07-22` ~ `2022-08-22` 까지 매주 일요일 오전 9시
 
