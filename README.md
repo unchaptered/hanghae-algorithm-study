@@ -1,6 +1,9 @@
 # algorithm
 
 제목 : 알고리즘 스터디
+`2022-07-`
+
+![](https://github.com/unchaptered/hanghae-algorithm-study/blob/main/%EC%99%84%EB%A3%8C!.png)
 
 <hr>
 
