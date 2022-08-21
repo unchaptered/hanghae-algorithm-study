@@ -22,7 +22,7 @@
 
 <p align="center"><img src="https://github.com/unchaptered/hanghae-algorithm-study/blob/main/Group%201%20(1).png" /></p>
 
-<p align="center"> codeing999/이재철 - <a href="#">후기 / 작성 중입니당~~</a></p>
+<p align="center"> codeing999/이재철 - <a href="https://velog.io/@mero/20220821WIL">후기 / 알고리즘 스터디 종료 후기</a></p>
 <p align="center"> unchaptered/이민석 - <a href="https://velog.io/@unchaptered_til/%ED%95%AD%ED%95%B4-WIL-6">후기 / 알고리즘 주차 끝이야!</a></p>
 <p align="center"><img src="https://github.com/unchaptered/hanghae-algorithm-study/blob/main/%EC%99%84%EB%A3%8C!.png" /></p>
 
